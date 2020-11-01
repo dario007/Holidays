@@ -3,6 +3,7 @@
     "description": "Extendable holidays and translations package for land with states option.",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "dariojjk",
