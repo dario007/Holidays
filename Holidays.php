@@ -1,6 +1,6 @@
 <?php
 
-namespace BalkanHolidays;
+namespace Holidays;
 
 class Holidays {
 

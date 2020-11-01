@@ -1,0 +1,18 @@
+{
+    "name": "djjk/holidays",
+    "description": "Extendable holidays and translations package for land with states option.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dariojjk",
+            "email": "dariojjk@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Holidays\\" : "/"
+        }
+    },
+    "require": {}
+}
