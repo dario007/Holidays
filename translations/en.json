@@ -1,0 +1,25 @@
+{
+  "new_year" : "New Year",
+  "epiphany" : "Epiphany",
+  "easter_sunday" : "Easter Sunday",
+  "easter_monday" : "Easter Monday",
+  "labour_day" : "Labor Day",
+  "statehood_day" : "Statehood Day",
+  "corpus_christi" : "Corpus Christi",
+  "day_of_antifascist_struggle" : "Day of Antifascist Struggle",
+  "homeland_thanksgiving_day" : "Homeland Thanksgiving Day",
+  "assumption_of_mary" : "Assumption of Mary",
+  "all_saints_day" : "All Saints' Day",
+  "remembrance_day_cro" : "Remembrance Day",
+  "christmas" : "Christmas Day",
+  "st_stephens_day" : "St Stephen's Day",
+
+  "women's_day": "Frauentag",
+  "good_friday": "Karfreitag",
+  "ascension_day": "Christi Himmelfahrt",
+  "whit_monday": "Pfingstmontag",
+  "world_children's_day" : "Weltkindertag",
+  "german_unity_day": "Tag der Deutschen Einheit",
+  "reformation_day" : "Reformationstag",
+  "repentance_and_prayer_day" : "Buß- und Bettag"
+}

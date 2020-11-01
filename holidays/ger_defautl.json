@@ -1,0 +1,75 @@
+{
+  "region_1": {
+    "name": "Baden-Württemberg",
+    "dates": {
+      "new_year": {
+        "date": "01.01.",
+        "type": "state"
+      },
+      "epiphany": {
+        "date": "06.01.",
+        "type": "religious"
+      },
+      "women's_day": {
+        "date": "06.01.",
+        "type": "religious"
+      },
+      "good_friday": {
+        "date": "",
+        "type": "religious"
+      },
+      "easter_monday": {
+        "date": "01.05.",
+        "type": "state"
+      },
+      "labour_day": {
+        "date": "30.05.",
+        "type": "state"
+      },
+      "ascension_day": {
+        "date": "",
+        "type": "religious"
+      },
+      "whit_monday": {
+        "date": "05.08.",
+        "type": "state"
+      },
+      "corpus_christi": {
+        "date": "01.11.",
+        "type": "religious"
+      },
+      "assumption_of_mary": {
+        "date": "15.08.",
+        "type": "state"
+      },
+      "world_children's_day": {
+        "date": "25.12.",
+        "type": "religious"
+      },
+      "german_unity_day": {
+        "date": "26.12.",
+        "type": "religious"
+      },
+      "reformation_day": {
+        "date": "26.12.",
+        "type": "religious"
+      },
+      "all_saints_day" : {
+        "date": "26.12.",
+        "type": "religious"
+      },
+      "repentance_and_prayer_day": {
+        "date": "26.12.",
+        "type": "religious"
+      },
+      "christmas_day": {
+        "date": "26.12.",
+        "type": "religious"
+      },
+      "st_stephens_day": {
+        "date": "26.12.",
+        "type": "religious"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "region": {
+    "name": "",
+    "dates": {
+      "new_year": {
+        "date": "01.01.",
+        "type": "state"
+      },
+      "epiphany": {
+        "date": "06.01.",
+        "type": "religious"
+      },
+      "easter_sunday": {
+        "date": "",
+        "type": "religious"
+      },
+      "easter_monday": {
+        "date": "",
+        "type": "religious"
+      },
+      "labour_day": {
+        "date": "01.05.",
+        "type": "state"
+      },
+      "statehood_day": {
+        "date": "30.05.",
+        "type": "state"
+      },
+      "corpus_christi": {
+        "date": "",
+        "type": "religious"
+      },
+      "homeland_thanksgiving_day": {
+        "date": "05.08.",
+        "type": "state"
+      },
+      "assumption_of_mary": {
+        "date": "15.08.",
+        "type": "state"
+      },
+      "all_saints_day": {
+        "date": "01.11.",
+        "type": "religious"
+      },
+      "remembrance_day_cro": {
+        "date": "18.11.",
+        "type": "state"
+      },
+      "christmas": {
+        "date": "25.12.",
+        "type": "religious"
+      },
+      "st_stephens_day": {
+        "date": "26.12.",
+        "type": "religious"
+      }
+    }
+  }
+}
